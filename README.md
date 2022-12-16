@@ -12,7 +12,7 @@ Follow the [setup instructions](https://www.tensorflow.org/install) to install P
 
 ### `image_data`
 
-This directory contains all the images and metadata for training, testing, and validating the models.
+This directory contains all the images and metadata for training, testing, and validating the models. The label metadata was created using [`labelImg`](https://github.com/heartexlabs/labelImg) and saved as PASCAL VOC formatted XML files.
 
 If you would like to use and improve these models, submitting additional images and metadata would be helpful to improve training!
 
