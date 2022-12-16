@@ -2,6 +2,8 @@
 
 This repository is an exploration using Tensorflow Lite to train models to detect and classify die.
 
+![example of die detection](./example.jpg)
+
 ## Tensorflow setup
 
 Follow the [setup instructions](https://www.tensorflow.org/install) to install Python and Tensorflow on your machine.
