@@ -1,0 +1,37 @@
+<annotation>
+	<folder>Camera Roll - Copy</folder>
+	<filename>WIN_20221211_13_07_07_Pro.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>die</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1343</xmin>
+			<ymin>158</ymin>
+			<xmax>1411</xmax>
+			<ymax>233</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>die</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1514</xmin>
+			<ymin>423</ymin>
+			<xmax>1585</xmax>
+			<ymax>496</ymax>
+		</bndbox>
+	</object>
+</annotation>
