@@ -4,6 +4,10 @@ This repository is an exploration using Tensorflow Lite to train models to detec
 
 ![example of die detection](./example.jpg)
 
+## Usage
+
+These models are deployed in a [Dice tracker](https://dice-tracker.vercel.app) web app. The code is [available on GitHub](https://github.com/skovy/tensorflow-dice-app).
+
 ## Tensorflow setup
 
 Follow the [setup instructions](https://www.tensorflow.org/install) to install Python and Tensorflow on your machine.
